@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\bin\Debug\Northwind.exe.config
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\bin\Debug\Northwind.exe
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\bin\Debug\Northwind.pdb
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\obj\Debug\Northwind.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\obj\Debug\Northwind.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\obj\Debug\Northwind.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\obj\Debug\Northwind.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\obj\Debug\Northwind.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\obj\Debug\Northwind.exe
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\obj\Debug\Northwind.pdb
+C:\Users\LENOVO\Desktop\C#Denemeleri\Northwind\Northwind\obj\Debug\Northwind.FormUrunler.resources
